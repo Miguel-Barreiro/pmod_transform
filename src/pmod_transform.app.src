@@ -1,7 +1,7 @@
 {application, pmod_transform,
  [
   {applications, []},
-  {mod, { pmod_transform, [ pmod_pt ] }},
+  {mod, { pmod_pt, [ ] }},
   {description, "Parameterized modules support"},
   {vsn, "1"},
   {registered, []},
